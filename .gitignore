@@ -190,17 +190,22 @@ octave-workspace
 ThreeDSceneFormer/out
 ThreeDSceneFormer/data
 ThreeDSceneFormer/wandb
+ThreeDSceneFormer/demo/outputs/*
 
 Implicit3DUnderstanding/out
 Implicit3DUnderstanding/data
 Implicit3DUnderstanding/wandb
+Implicit3DUnderstanding/demo/outputs/*
 
 Total3DUnderstanding/out
 Total3DUnderstanding/data
 Total3DUnderstanding/wandb
 Total3DUnderstanding/demo/data_time/
+Total3DUnderstanding/demo/outputs/*
+
 
 *.pth
 *.png
 returned_items.json
 sample_images/
+XRSU.zip
