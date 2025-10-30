@@ -20,7 +20,7 @@ This repository contains a few submodules, which I have just added as files here
 
 ## Data
 
-The model checkpoints and nevessary data is provided on Sharepoint. Extract the zip in the root of this project, everything should then be placed correctly.
+The model checkpoints and nevessary data is provided on [Google Drive](https://drive.google.com/file/d/19FCQY0RVHrqbT7aR5_y30POhe3Z-v6iF/view?usp=sharing). Extract XRSU.zip in the root of this project, everything should then be placed in the correct subdirectories.
 
 ## Run
 
