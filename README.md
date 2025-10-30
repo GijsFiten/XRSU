@@ -16,6 +16,7 @@ When running ```build.sh```, the script will run ```external/build_gaps.sh``` wh
 Please make sure you are running with a user with sudo privilege.
 
 Should you run into build errors, check that the correct NVIDIA compute capability is set in the CMakeLists.txt file in each of the external/ldif folders.
+This repository contains a few submodules, which I have just added as files here, this is not ideal but it makes the build stable. Please manually setup the file structure if you want to use this repository in a serious setting.
 
 ## Data
 
