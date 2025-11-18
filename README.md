@@ -74,7 +74,7 @@ A simple Python client is included to batch over sample_images and POST to /uplo
 
 ## Unity
 
-A Unity project is provided as a VR proof of concept. The program will take a screenshot using the Meta Quest 3 internal camera, communicate with the flask application (can be remotely) and display the returned 3D Meshes in VR. The project can be downloaded on [Google Drive](). 
+A Unity project is provided as a VR proof of concept. The program will take a screenshot using the Meta Quest 3 internal camera, communicate with the flask application (can be remotely) and display the returned 3D Meshes in VR. The project can be downloaded on [Google Drive](https://drive.google.com/file/d/1jr4Ith_I_vYVc35jzt5iaqhLaGvhviXB/view?usp=sharing). 
 
 ## Troubleshooting
 
