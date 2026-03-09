@@ -9,7 +9,7 @@ This code provides a minimal Flask server that exposes HSU pipelines (ThreeDScen
 - OS: Ubuntu 24.04 LTS
 - Python: 3.8
 - CUDA: 11.8 (nvcc required)
-- GPU: NVIDIA GTX 1070 and RTX 4070
+- GPU: NVIDIA GTX 1070 or RTX 4070
 
 ## Quickstart
 Make sure you have CUDA-toolkit and nvcc installed on your system before proceeding.
